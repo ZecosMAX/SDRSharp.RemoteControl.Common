@@ -24,6 +24,8 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <Copyright>Yuujin Birukofu (R3BAR) et. al. (c) 0 - 2025</Copyright>
     <Title>SDR# RemoteControl Common Library</Title>
+    <Description>Set of Messages/DTOs/Utilites for clients that are created to connect to 
+servers powered by SDRSharp.RemoteControl as well as for server build itself</Description>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
